@@ -1,0 +1,11 @@
+firstname,lastname,fullname,eployeeidl,status
+naveen,daravath,naveen.daravath,22127,a
+srikanth,Agurla,srikanth.Agurla,22345,i
+naveen,daravath,naveen.daravath,22126,i
+hari,pavuluri,hari.pavuluri,22125,i
+sreeja,reedy,sreeja.reddy,22176,a
+phani,indra,phani.indra,22175,i
+shahid,shaik,shahid.shaik,33234,a
+shakir,shaik,skakir.shaik,22128,i
+narendra,nagarikanti,narendra.nagarikanti,22120
+David,kanti,David.kanti,22127
