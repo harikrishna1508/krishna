@@ -8,4 +8,3 @@ phani,indra,phani.indra,22175,i
 shahid,shaik,shahid.shaik,33234,a
 shakir,shaik,skakir.shaik,22128,i
 narendra,nagarikanti,narendra.nagarikanti,22120
-David,kanti,David.kanti,22127
